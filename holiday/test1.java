@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.Arrays; 
 public class test1{
 	public static void main(String[] args){
 	String n = "统计一个字符在字符串中的所有位置";
@@ -15,7 +15,7 @@ public class test1{
 		count[count.length - 1] = i ;
 			}
 		}
-		return count;
+		return count; 
 	}
 }
 //练习一
