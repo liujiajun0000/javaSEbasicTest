@@ -15,5 +15,5 @@ public class Sort1{
 				}
 			}
 		}return num;
-	}
+	}                    //ц╟ещеепР
 }
